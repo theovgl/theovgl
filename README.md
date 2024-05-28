@@ -6,7 +6,7 @@ I'm really passionate about web development. I'm mostly proficient in front-end 
 
 🌱 I’m currently having a lot of fun learning Go! I was feeling rusty and I missed back-end areas, it was time to do something about it!
 
-📫 Feel free to reach me out on [LinkedIn](www.linkedin.com/in/theo-vogel), [Mastodon](https://piaille.fr/@theovgl) or by email contact[at]theovogel[dot]fr
+📫 Feel free to reach me on [LinkedIn](www.linkedin.com/in/theo-vogel), [Mastodon](https://piaille.fr/@theovgl) or by email contact[at]theovogel[dot]fr
 
 <!--
 **theovgl/theovgl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
